@@ -2,7 +2,7 @@
 
 :sparkles:天气预告 | WeatherForecast
 
-预览地址: [传送门](https://huanghongrui.github.io/WeatherForecast/)
+预览地址: [传送门](https://huanghongrui.github.io/WeatherForecast/) [目前被请求被阻止]
 
 迁移前地址: [传送门](http://luckyman.xyz/Home/weatherApiDemo.html)
 
